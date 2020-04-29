@@ -1,0 +1,96 @@
+Installation of JDK:
+
+
+   https://www.oracle.com/java/technologies/javase-jdk8-downloads.html
+
+   
+   JDK
+   JRE
+   
+
+   After installation:
+	
+   
+   java -version
+   
+  
+   JAVA_HOME: C:\Program Files\Java\jdk1.8.0_231
+   Path: C:\Program Files\Java\jdk1.8.0_231\bin
+   classpath: C:\Program Files\Java\jdk1.8.0_231\lib
+
+
+   Java Program:
+
+   1. HelloWorld.java
+
+	public class HelloWorld{
+	
+	    public static void main(String[] args){
+		System.out.println("Hello World");
+	    }
+
+       }
+
+   2. javac HelloWorld.java   ( It generate HelloWorld.class )
+   3. java HelloWorld
+      
+
+Eclipse (IDE):
+
+    https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2020-03/R/eclipse-inst-win64.exe&mirror_id=1273
+
+  
+Data type:
+
+byte
+short
+char
+int
+float
+double
+long
+boolean
+
+if
+else
+for
+switch
+break
+continue
+
+try
+catch
+throw
+throws
+finally
+
+public 
+protected
+private
+
+
+
+https://github.com/learnwithlakshman/corejava_batch_5
+
+git clone https://github.com/learnwithlakshman/corejava_batch_5
+
+git pull
+
+Iterative :
+
+Enter control : for, while
+Exit Control  : do-while
+
+for(init;condition;updation){
+	//Code
+
+}
+
+   for(int i = 1;i<=10;i++){
+   	//
+   }
+
+
+
+  
+
