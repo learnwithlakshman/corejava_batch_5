@@ -93,4 +93,37 @@ for(init;condition;updation){
 
 private > (default) > protected > public
   
+  
+  final:
+  
+       methods   =>  there is no  overriding
+       variables =>  it can't be reassigned
+       class     =>  it won't allow inheritance
+       reference =>  it can't be assigned with new object, but object content can modified 
+       
+       javac Hello.java
+       java Hello 123 Krish 3
+       
+       
+ static:
+         ctrl + shift + O
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
 
