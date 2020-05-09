@@ -1,0 +1,54 @@
+mysql -u <username> -p  
+password: 
+---------------------------
+
+create database batch_5
+
+use batch_5
+
+DDL: create, alter, drop, truncate
+DML: insert, update, delete, merge
+DQL: select
+TCL: commit, savepoint, rollback
+DCL: grant, revoke 
+
+
+1. Get employee name, salary
+
+2. Get employee name, salary, annual_sal
+
+3. Get employees who are getting salary is more than 50000
+
+4. Get employee who are getting salary more than 50000 and less than 80000
+
+5. Get employee who are working for 'QA'
+
+6. Get employee who are working for 'QA' and salary < 50000
+
+7. Get employee who are working for 'QA' or 'DEV'
+
+8. Get employee who are working for 'QA' or 'DEV' or 'SALES'
+
+9. Get employee whose name starts with letter 'R'
+
+10. Get Employees whose names ends with letter 'i'
+
+11. Get Employees whose names ends with letter 'an'
+
+12. Get Employees whose name has length of 4 characters
+
+13. Get total salary paid to the all the employees
+
+14. Get max salary of the employees
+
+15. Get all the department names
+
+16. Dipslay all the employees in desc by salary
+
+17. Get count of employees in each dept
+
+
+
+JDBC => 
+
+

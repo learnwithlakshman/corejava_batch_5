@@ -110,7 +110,12 @@ private > (default) > protected > public
        
        
        
-       
+ ip/host
+ port
+ username
+ password
+ 
+   
        
        
        
